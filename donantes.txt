@@ -1,0 +1,3 @@
+Patricia,Alcantara,AB,+,9
+Miguel Angel,Gavilan Merino,0,-,3
+Luis,Perez Fuentes,A,+,8
